@@ -1,7 +1,7 @@
-## Project Archive
+## Portfolio
 
 ### Repository Overview
-Welcome to my project archive! This is a home for some of the more interesting projects I have done.
+Welcome to my portfolio / project archive! This is a home for some of the more interesting projects I have done.
 
 ### Featured Projects
 
