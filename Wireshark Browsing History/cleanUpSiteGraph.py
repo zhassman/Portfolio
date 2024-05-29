@@ -18,7 +18,7 @@ def update(sitesToNeighbors, siteNumToAck):
     return updated
 
 
-with open('step1-sites_to_neighbors.json') as f1:
+with open('sites_to_neighbors.json') as f1:
     sitesToNeighbors = json.load(f1)
 
 with open('siteNumToAck.json') as f2:
