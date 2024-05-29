@@ -1,5 +1,16 @@
 ## Wireshark Browsing History
 
+### Project Overview
+
+This folder contains scripts for a computer security project aimed at reconstructing the browsing history of a user termed "ghost". The project involves:
+- Generating a website graph from a known starting point (`buildWebsiteGraph.py`).
+- Enhancing this graph with data about the network size of each site (`cleanUpSiteGraph.py`).
+- Analyzing packet data to calculate network sizes (`parseGhost.py` and `parseMine.py`).
+- Recreating the most probable browsing path based on these sizes (`recreateBrowsingHistory.py`).
+- Simplifying packet data for efficient processing (`simplifyJSON.py`).
+
+The project showcases advanced techniques in web scraping, network traffic analysis, data processing, and heuristic-based pathfinding to model user behavior on the internet accurately.
+
 ### File Descriptions
 
 **1. `buildWebsiteGraph.py`:**
@@ -19,14 +30,3 @@
 
 **6. `simplifyJSON.py`:**
    - Processes detailed network packet data, extracting key information such as TCP flags and DNS queries. This simplification helps focus subsequent analyses on essential data, facilitating more efficient processing.
-
-### Project Summary
-
-This folder contains scripts for a computer security project aimed at reconstructing the browsing history of a user termed "ghost". The project involves:
-- Generating a website graph from a known starting point (`buildWebsiteGraph.py`).
-- Enhancing this graph with data about the network size of each site (`cleanUpSiteGraph.py`).
-- Analyzing packet data to calculate network sizes (`parseGhost.py` and `parseMine.py`).
-- Recreating the most probable browsing path based on these sizes (`recreateBrowsingHistory.py`).
-- Simplifying packet data for efficient processing (`simplifyJSON.py`).
-
-The project showcases advanced techniques in web scraping, network traffic analysis, data processing, and heuristic-based pathfinding to model user behavior on the internet accurately.
