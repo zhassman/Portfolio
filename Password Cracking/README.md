@@ -4,7 +4,7 @@
 
 This toolkit comprises several scripts designed to analyze password datasets, extract password hashes, crack them using Hashcat, and generate passwords using a Markov model. The scripts provide a comprehensive approach to understanding and enhancing password security.
 
-### Script Descriptions
+### File Descriptions
 
 #### `passwordAnalysis.py`
 - **Purpose**: Analyzes a dataset of passwords (specifically, the RockYou breach) to determine common characteristics such as length and complexity.
