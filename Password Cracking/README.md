@@ -17,7 +17,7 @@ This toolkit comprises several scripts designed to analyze password datasets, ex
 #### `potfileComparer.py`
 - **Purpose**: Compares Hashcat pot files to determine unique and common entries between different cracking sessions. Useful for analyzing the effectiveness of various hash cracking approaches.
 
-#### `maskOptimizer.py`
+#### `findBestMask.py`
 - **Purpose**: Analyzes password datasets to determine the most effective mask patterns for use with Hashcat, enhancing the efficiency of mask attacks.
 
 #### `markovTrain.py`
