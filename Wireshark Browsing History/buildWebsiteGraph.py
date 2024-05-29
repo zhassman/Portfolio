@@ -47,5 +47,5 @@ def bfs(start):
 sitesToNeighbors = bfs("https://blase.courses")
 
 sitesToNeighborsJson = json.dumps(sitesToNeighbors, indent=4)
-with open('step1-sitesToNeighbors.json', 'w') as json_file:
+with open('sites_to_neighbors.json', 'w') as json_file:
     json.dump(sitesToNeighbors, json_file, indent=4)
