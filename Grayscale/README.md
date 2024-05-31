@@ -1,4 +1,4 @@
-## Grayscale: Image Processing System
+## Grayscale Image Conversion
 
 ### Overview
 Grayscale is a project focused on converting images to grayscale using various methods, both sequential and parallel, to illustrate differences in performance related to image processing tasks.
