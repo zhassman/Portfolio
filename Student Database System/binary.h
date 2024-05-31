@@ -1,6 +1,5 @@
-#ifndef _HW5_HEADER_
-#define _HW5_HEADER_
-
+#ifndef _binary_HEADER_
+#define _binary_HEADER_
 #include <stdint.h>
 
 struct student_record {
