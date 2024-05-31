@@ -1,3 +1,5 @@
+## Student Database System
+
 ### hash.c: Hash Table Student Database
 - **Description**: Implements a student database using hash tables to store and manage student records efficiently.
 - **Key Functions**:
