@@ -1,7 +1,7 @@
 ## ASQP Data Processing Module
 
 ### Overview
-This module processes and analyzes ASQP flight data, focusing on delays, cancellations, and operational metrics.
+This module processes and analyzes Airline Service Quality Performance (ASQP) flight data, focusing on delays, cancellations, and operational metrics.
 
 ### Features
 - **Data Handling**: Processes ASC and NPY files into usable formats.
