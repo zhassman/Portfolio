@@ -52,3 +52,10 @@ Welcome to my portfolio / project archive! This is a home for a few of the proje
   - `hash.c`: Features hash tables for quick data retrieval and management, ensuring data integrity through uniqueness checks.
   - `binary.c`: Utilizes binary search trees for efficient sorting and rapid access, with a focus on memory management and preventing data duplication.
   - Both implementations provide robust error handling, dynamic memory management, and support complex data structures for high-performance data operations.
+
+### Grayscale Image Conversion
+- **Description**: Grayscale is a project designed to convert color images to grayscale using both sequential and parallel processing techniques to showcase different performance efficiencies.
+- **Highlights**:
+  - Implements grayscale conversion algorithms using C and pthreads for parallel processing.
+  - Measures and compares performance between sequential and multi-threaded execution.
+  - Provides practical applications of parallel computing in image processing tasks.
