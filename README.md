@@ -46,3 +46,9 @@ Welcome to my portfolio / project archive! This is a home for a few of the proje
   - Automatic tile shuffling at the start to randomize the board.
   - Comprehensive checks to determine when the puzzle is solved.
 
+### Student Database System
+- **Description**: Consists of two core implementations: `hash.c` and `binary.c`. `hash.c` utilizes hash tables to efficiently manage student records, while `binary.c` employs binary search trees for optimized data operations.
+- **Highlights**:
+  - `hash.c`: Features hash tables for quick data retrieval and management, ensuring data integrity through uniqueness checks.
+  - `binary.c`: Utilizes binary search trees for efficient sorting and rapid access, with a focus on memory management and preventing data duplication.
+  - Both implementations provide robust error handling, dynamic memory management, and support complex data structures for high-performance data operations.
