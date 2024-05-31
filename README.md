@@ -38,3 +38,11 @@ Welcome to my portfolio / project archive! This is a home for some of the more i
   - Data handling for complex flight datasets.
   - Analytical functions for calculating flight delays, cancellations, and performance metrics.
   - Time series analysis for identifying trends and seasonality in flight data.
+ 
+### Slide 15 Game
+- **Description**: A C implementation of the classic Slide 15 puzzle game where players move tiles into numerical order by sliding them into an empty space.
+- **Highlights**:
+  - Direct manipulation of tile positions based on user inputs.
+  - Automatic tile shuffling at the start to randomize the board.
+  - Comprehensive checks to determine when the puzzle is solved.
+
