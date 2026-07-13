@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Repository Overview
-Welcome to my portfolio / project archive! This is a home for a few of the projects that I have done.
+This portfolio serves as an archive for projects completed in introductory computer science courses at UChicago.
 
 ## Featured Projects
 
